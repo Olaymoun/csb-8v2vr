@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://olaymoun.github.io/csb-8v2vr/static/css/main.1bcd3588.chunk.css",
-    "main.js": "https://olaymoun.github.io/csb-8v2vr/static/js/main.bb2c10f9.chunk.js",
-    "main.js.map": "https://olaymoun.github.io/csb-8v2vr/static/js/main.bb2c10f9.chunk.js.map",
+    "main.js": "https://olaymoun.github.io/csb-8v2vr/static/js/main.d404c189.chunk.js",
+    "main.js.map": "https://olaymoun.github.io/csb-8v2vr/static/js/main.d404c189.chunk.js.map",
     "runtime-main.js": "https://olaymoun.github.io/csb-8v2vr/static/js/runtime-main.b2e02c37.js",
     "runtime-main.js.map": "https://olaymoun.github.io/csb-8v2vr/static/js/runtime-main.b2e02c37.js.map",
     "static/css/2.8b4d6681.chunk.css": "https://olaymoun.github.io/csb-8v2vr/static/css/2.8b4d6681.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.8b4d6681.chunk.css",
     "static/js/2.61bd9b72.chunk.js",
     "static/css/main.1bcd3588.chunk.css",
-    "static/js/main.bb2c10f9.chunk.js"
+    "static/js/main.d404c189.chunk.js"
   ]
 }
